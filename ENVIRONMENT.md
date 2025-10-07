@@ -1,0 +1,7 @@
+# Environment variables
+
+```
+BOLDSIGN_API_KEY=your_boldsign_api_key_here
+BOLDSIGN_API_URL=https://api.boldsign.com/v1/template/send
+
+```

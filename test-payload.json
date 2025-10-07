@@ -1,0 +1,24 @@
+{
+  "signingRequests": [
+    {
+      "patient": {
+        "name": "John Doe",
+        "email": "john.doe@example.com"
+      },
+      "treatments": "Rhinoplasty",
+      "documents": "consent-form,pre-op-instructions,post-op-care",
+      "language": "en",
+      "deadline": "2025-10-20"
+    },
+    {
+      "patient": {
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com"
+      },
+      "treatments": "Facelift",
+      "documents": "consent-form,recovery-guide",
+      "language": "en",
+      "deadline": "2025-10-25"
+    }
+  ]
+}
